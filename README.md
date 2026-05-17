@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/GitHub-Atomix2402-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Agents%20%7C%20Automation-06b6d4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role-AI%20Engineer-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-7c3aed?style=for-the-badge" />`n<img src="https://komarev.com/ghpvc/?username=Atomix2402&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -30,11 +30,50 @@ specialties:
   - Vector search, BM25, reranking, citations, evaluation
   - Workflow automation with APIs
   - NLP, classification, computer vision, and explainable AI
-current_status: building AI systems that are useful, secure, and explainable
+current_status: building AI systems that are useful, secure, and explainable`nopen_to: AI Engineer roles, RAG/LLM internships, automation projects, applied AI collaborations
+```
+
+
+---
+
+## Open To
+
+<table>
+<tr>
+<td width="50%">
+
+### Roles
+- AI Engineer / Applied ML Engineer
+- LLM Engineer / RAG Engineer
+- Machine Learning Engineer
+- AI Automation Engineer
+
+</td>
+<td width="50%">
+
+### Collaboration Areas
+- RAG and enterprise search systems
+- LLM agents and tool-using workflows
+- NLP automation and document intelligence
+- Evaluation, guardrails, and AI reliability
+
+</td>
+</tr>
+</table>
+
+```text
+availability.signal = "open to AI/ML roles, internships, freelance builds, and strong project collaborations"
+preferred.work = "RAG systems, LLM apps, automation pipelines, backend AI services"
 ```
 
 ---
 
+## Currently Building
+
+- Secure enterprise RAG systems with access-aware retrieval, citations, and evaluation.
+- LLM agents that connect APIs, databases, documents, and workflow tools.
+- Automation pipelines that turn emails, tickets, and messy inputs into structured actions.
+- Better project documentation, demos, and interview-ready technical explanations.
 ## AI Systems Dashboard
 
 <table>
@@ -200,7 +239,7 @@ Computer vision experiment using YOLOv8 for object detection workflows.
 
 ---
 
-## Current Mission
+## Build Queue
 
 ```text
 [01] Build secure RAG systems with access-aware retrieval
