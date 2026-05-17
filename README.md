@@ -76,6 +76,9 @@ preferred.work = "RAG systems, LLM apps, automation pipelines, backend AI servic
 - LLM agents that connect APIs, databases, documents, and workflow tools.
 - Automation pipelines that turn emails, tickets, and messy inputs into structured actions.
 - Better project documentation, demos, and interview-ready technical explanations.
+
+---
+
 ## AI Systems Dashboard
 
 <table>
