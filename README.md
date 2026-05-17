@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:7c3aed,100:06b6d4&height=220&section=header&text=Bhavesh%20Siddamshetty&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%7C%20LLM%20Agents%20%7C%20Automation&descAlignY=58&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:7c3aed,100:06b6d4&height=220&section=header&text=Bhavesh%20Kumar%20Siddamshetty&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%7C%20LLM%20Agents%20%7C%20Automation&descAlignY=58&descSize=16" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+secure+RAG+systems+for+enterprise+data;Designing+LLM+agents+that+connect+tools%2C+APIs%2C+and+workflows;Turning+messy+real-world+inputs+into+structured+AI+actions;Python+%7C+FastAPI+%7C+Vector+Search+%7C+Automation+%7C+Evaluation)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 ## `system.profile()`
 
 ```yaml
-name: Bhavesh Siddamshetty
+name: Bhavesh Kumar Siddamshetty
 handle: Atomix2402
 role_focus: AI Engineer / Applied ML Engineer
 build_mode: practical AI systems, not just notebooks
