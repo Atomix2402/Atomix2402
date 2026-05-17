@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/GitHub-Atomix2402-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Agents%20%7C%20Automation-06b6d4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role-AI%20Engineer-7c3aed?style=for-the-badge" />`n<img src="https://komarev.com/ghpvc/?username=Atomix2402&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/Role-AI%20Engineer-7c3aed?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Atomix2402&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -30,7 +31,8 @@ specialties:
   - Vector search, BM25, reranking, citations, evaluation
   - Workflow automation with APIs
   - NLP, classification, computer vision, and explainable AI
-current_status: building AI systems that are useful, secure, and explainable`nopen_to: AI Engineer roles, RAG/LLM internships, automation projects, applied AI collaborations
+current_status: building AI systems that are useful, secure, and explainable
+open_to: AI Engineer roles, RAG/LLM internships, automation projects, applied AI collaborations
 ```
 
 
